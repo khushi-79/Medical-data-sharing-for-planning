@@ -33,7 +33,7 @@ do further process using it.</ul>
 data of patient.</ul>
 <ul>This QR code in Health-card will be scanned by only specific scanner.</ul>
 
-<h2>Steps to access this</h2>
+<h3>Steps to access this</h3>
 <ul>Extract zip file</ul>
 <ul>Install Django in your device</ul>
 <ul>To run the project write, python manage.py runserver</ul>
