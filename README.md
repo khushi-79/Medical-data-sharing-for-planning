@@ -19,10 +19,10 @@ having 12 digits unique number. This portal is provided to only doctors and
 hospital admins not to the general public.</p>
 
 <h3>Technology stack</h3>
-- Django 
-- SQLite3
-- Python
-- Bootstrap5
+<li>Django 
+<li>SQLite3
+<li>Python
+<li>Bootstrap5
 
 <h3>Features</h3>
 <ul>This portal helps to manage data of patients and their diseases.</ul>
@@ -39,4 +39,4 @@ data of patient.</ul>
 <ul>To run the project write, python manage.py runserver</ul>
 <ul>Portal will be available on your local server</ul>
 
-<p>static-templates remaining</p>
+
