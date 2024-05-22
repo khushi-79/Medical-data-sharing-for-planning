@@ -38,5 +38,6 @@ data of patient.</ul>
 <ul>Install Django in your device</ul>
 <ul>To run the project write, python manage.py runserver</ul>
 <ul>Portal will be available on your local server</ul>
+<ul>Also setup for SQLite</ul>
 
 
